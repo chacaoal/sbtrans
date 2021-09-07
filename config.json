@@ -1,0 +1,22 @@
+{
+        "name": "skyblock",
+        "authors": [
+          "NMML",
+          "Chacaoal"
+        ],
+        "paths": {
+          "replaces": [
+            "/items/replaces.json",
+            "/messages/replaces.json"
+          ],
+          "commons": [
+              "/items/armors.json",
+              "/items/tools.json",
+              "/items/weapons.json"
+          ],
+          "messages": [
+              "/chestgui/names.json",
+              "/messages/message.json"
+          ]
+    }
+}

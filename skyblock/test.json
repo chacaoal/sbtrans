@@ -1,0 +1,121 @@
+{
+  "name": "§dHeroic Spirit Sceptre §6✪§6✪§6✪§6✪§6✪",
+  "trans": "",
+  "lore": {
+    "": {
+      "message": "",
+      "regular": false,
+      "target": ""
+    },
+    "§7Shoots a guided spirit bat,": {
+      "message": "§7Shoots a guided spirit bat,",
+      "regular": false,
+      "target": "§7Shoots a guided spirit bat,"
+    },
+    "§7Intelligence: §a+430 §9(Heroic +125) §8(+1,057.8)": {
+      "message": "§7Intelligence: §a+430 §9(Heroic +125) §8(+1,057.8)",
+      "regular": false,
+      "target": "§7Intelligence: §a+430 §9(Heroic +125) §8(+1,057.8)"
+    },
+    "§9§d§lUltimate Wise V, §9Cleave V": {
+      "message": "§9§d§lUltimate Wise V, §9Cleave V",
+      "regular": false,
+      "target": "§9§d§lUltimate Wise V, §9Cleave V"
+    },
+    "§6Ability: Guided Bat §e§lRIGHT CLICK": {
+      "message": "§6Ability: Guided Bat §e§lRIGHT CLICK",
+      "regular": false,
+      "target": "§6Ability: Guided Bat §e§lRIGHT CLICK"
+    },
+    "§9Ender Slayer V, §9Execute V": {
+      "message": "§9Ender Slayer V, §9Execute V",
+      "regular": false,
+      "target": "§9Ender Slayer V, §9Execute V"
+    },
+    "§7Crit Damage: §c+60% §8(+147.6%)": {
+      "message": "§7Crit Damage: §c+60% §8(+147.6%)",
+      "regular": false,
+      "target": "§7Crit Damage: §c+60% §8(+147.6%)"
+    },
+    "§7Damage: §c+200 §e(+20) §8(+492)": {
+      "message": "§7Damage: §c+200 §e(+20) §8(+492)",
+      "regular": false,
+      "target": "§7Damage: §c+200 §e(+20) §8(+492)"
+    },
+    "§7for §c11,960.9 §7damage.": {
+      "message": "§7for §c11,960.9 §7damage.",
+      "regular": false,
+      "target": "§7for §c11,960.9 §7damage."
+    },
+    "§9Critical VI, §9Cubism V": {
+      "message": "§9Critical VI, §9Cubism V",
+      "regular": false,
+      "target": "§9Critical VI, §9Cubism V"
+    },
+    "§9Impaling III, §9Lethality V": {
+      "message": "§9Impaling III, §9Lethality V",
+      "regular": false,
+      "target": "§9Impaling III, §9Lethality V"
+    },
+    "§9Smite VI, §9Telekinesis I": {
+      "message": "§9Smite VI, §9Telekinesis I",
+      "regular": false,
+      "target": "§9Smite VI, §9Telekinesis I"
+    },
+    "§9Life Steal IV, §9Looting III": {
+      "message": "§9Life Steal IV, §9Looting III",
+      "regular": false,
+      "target": "§9Life Steal IV, §9Looting III"
+    },
+    "§8Mana Cost: §3125": {
+      "message": "§8Mana Cost: §3125",
+      "regular": false,
+      "target": "§8Mana Cost: §3125"
+    },
+    "§9Luck V, §9Scavenger III": {
+      "message": "§9Luck V, §9Scavenger III",
+      "regular": false,
+      "target": "§9Luck V, §9Scavenger III"
+    },
+    "§7following your aim and exploding": {
+      "message": "§7following your aim and exploding",
+      "regular": false,
+      "target": "§7following your aim and exploding"
+    },
+    "§9Experience III, §9Fire Aspect II": {
+      "message": "§9Experience III, §9Fire Aspect II",
+      "regular": false,
+      "target": "§9Experience III, §9Fire Aspect II"
+    },
+    "§7Strength: §c+70 §e(+20) §9(Heroic +50) §8(+172.2)": {
+      "message": "§7Strength: §c+70 §e(+20) §9(Heroic +50) §8(+172.2)",
+      "regular": false,
+      "target": "§7Strength: §c+70 §e(+20) §9(Heroic +50) §8(+172.2)"
+    },
+    "§9First Strike IV, §9Giant Killer V": {
+      "message": "§9First Strike IV, §9Giant Killer V",
+      "regular": false,
+      "target": "§9First Strike IV, §9Giant Killer V"
+    },
+    "§9Thunderlord V, §9Vampirism V": {
+      "message": "§9Thunderlord V, §9Vampirism V",
+      "regular": false,
+      "target": "§9Thunderlord V, §9Vampirism V"
+    },
+    "§7Bonus Attack Speed: §c+7% §9(Heroic +7%) §8(+10.5%)": {
+      "message": "§7Bonus Attack Speed: §c+7% §9(Heroic +7%) §8(+10.5%)",
+      "regular": false,
+      "target": "§7Bonus Attack Speed: §c+7% §9(Heroic +7%) §8(+10.5%)"
+    },
+    "§9Venomous V": {
+      "message": "§9Venomous V",
+      "regular": false,
+      "target": "§9Venomous V"
+    },
+    "§7Gear Score: §d720 §8(1505)": {
+      "message": "§7Gear Score: §d720 §8(1505)",
+      "regular": false,
+      "target": "§7Gear Score: §d720 §8(1505)"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "weapon": [{
+    "name": "§bOrdinary §e平凡之路",
+    "trans": "sb",
+    "lore": {
+      "§c\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d": {
+        "message": "§c\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d",
+        "regular": false,
+        "target": "§c\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+      },
+      "§7原创角色扮演,": {
+        "message": "§7原创角色扮演,",
+        "regular": false,
+        "target": "§7原创角色扮演,"
+      },
+      "§a点击连接!  §c✈": {
+        "message": "§a点击连接!  §c✈",
+        "regular": false,
+        "target": "§a点击连接!  §c✈"
+      },
+      "§7与怪物搏斗者, 当警惕亦因此成为怪物;": {
+        "message": "§7与怪物搏斗者, 当警惕亦因此成为怪物;",
+        "regular": false,
+        "target": "§7与怪物搏斗者, 当警惕亦因此成为怪物;"
+      },
+      "§7耐肝的副本,": {
+        "message": "§7耐肝的副本,",
+        "regular": false,
+        "target": "§7耐肝的副本,"
+      },
+      "§7优美的地图.": {
+        "message": "§7优美的地图.",
+        "regular": false,
+        "target": "§7优美的地图."
+      },
+      "§7当你凝视深渊时, 深渊也在凝视你.": {
+        "message": "§7当你凝视深渊时, 深渊也在凝视你.",
+        "regular": false,
+        "target": "§7当你凝视深渊时, 深渊也在凝视你."
+      },
+      "§7有趣的剧情,": {
+        "message": "§7有趣的剧情,",
+        "regular": false,
+        "target": "§7有趣的剧情,"
+      }
+    }
+  },
+    {
+      "name": "§aMiner\u0027s Outfit Helmet",
+      "trans": "",
+      "lore": {
+        "§7Defense: §a+15": {
+          "regular": false,
+          "target": "防御: +15！"
+        },
+        "§7worn.": {
+          "regular": false,
+          "target": ""
+        },
+        "§7§8This item can be reforged!": {
+          "regular": false,
+          "target": ""
+        },
+        "§6Full Set Bonus: Haste": {
+          "regular": false,
+          "target": ""
+        },
+        "§7Grants the wearer with": {
+          "regular": false,
+          "target": ""
+        },
+        "§7§apermanent Haste II§7 while": {
+          "regular": false,
+          "target": ""
+        }
+      }
+    }
+  ]
+}

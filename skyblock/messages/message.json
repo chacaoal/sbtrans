@@ -1,0 +1,22 @@
+{
+  "players": {
+    "§ahas sent you a trade request. §bClick here §ato accept!": {
+          "regular":true,
+          "regulars": [
+            "{§ahas sent you a trade request. §bClick here §ato accept!}"
+          ],
+          "target": "<v1> 向你发送了一个交易请求。 点击同意！"
+    },
+    "Your inventory is full!": {
+          "regular":false,
+          "target": "你的背包已经满了！"
+    },
+    "§r<§r§rNMML§r> §rcaonima§r": {
+          "regular":false,
+          "target": "你的背包已经满了！ UNCOMMON"
+    }
+  }
+
+
+
+}
