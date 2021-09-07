@@ -1,0 +1,2 @@
+# sbtrans
+Hypixel Skyblock Translate
