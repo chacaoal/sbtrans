@@ -1,19 +1,22 @@
 {
   "players": {
-    "§ahas sent you a trade request. §bClick here §ato accept!": {
+
+    "§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: [\s\S]": {
+          "message":"§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: abcdef§r",
           "regular":true,
-          "regulars": [
-            "{§ahas sent you a trade request. §bClick here §ato accept!}"
+          "regulars":[
+            "DUNGEON BUFF! ",
+            " §r§f§ffound a "
           ],
-          "target": "<v1> 向你发送了一个交易请求。 点击同意！"
+          "target": "ab"
     },
-    "Your inventory is full!": {
-          "regular":false,
-          "target": "你的背包已经满了！"
-    },
-    "§r<§r§rNMML§r> §rcaonima§r": {
-          "regular":false,
-          "target": "你的背包已经满了！ UNCOMMON"
+    "§r<§r§rchacaoal§r> §rcaonima§r": {
+          "message":"§r<§r§rNMML§r> [\s\S]*",
+          "regular": false,
+          "regulars":[
+            "§rcaonima§r"
+          ],
+          "target": "你的背包已经满了！ <v0>"
     }
   }
 

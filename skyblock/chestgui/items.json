@@ -1,0 +1,130 @@
+{
+  "dungeon":[
+    {
+      "name": "§aSalvage Dungeon Items",
+      "trans": "§a分解地牢武器/装备",
+      "lore": {
+        "§7their §dEssence§7.": {
+          "message": "§7their §dEssence§7.",
+          "regular": false,
+          "target": "§7相应的§d碎片§7."
+        },
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Salvage Dungeon Items to obtain": {
+          "message": "§7Salvage Dungeon Items to obtain",
+          "regular": false,
+          "target": "§7通过分解地牢武器/装备获得"
+        }
+      }
+    },
+    {
+      "name": "§aRepair Dungeon Items",
+      "trans": "§a修复地牢武器/装备",
+      "lore": {
+        "§7for Coins.": {
+          "message": "§7for Coins.",
+          "regular": false,
+          "target": "§7/装备."
+        },
+        "§7Repair Dungeon Items in exchange": {
+          "message": "§7Repair Dungeon Items in exchange",
+          "regular": false,
+          "target": "§7使用硬币来修复地牢武器"
+        }
+      }
+    },
+    {
+      "name": "§aEssence Crafting",
+      "trans": "§a锻造",
+      "lore": {
+        "§7Craft Dungeon items from regular": {
+          "message": "§7Craft Dungeon items from regular",
+          "regular": false,
+          "target": "§7使用§d碎片§7将你的普通武器/装备"
+        },
+        "§7items and upgrade Dungeon items": {
+          "message": "§7items and upgrade Dungeon items",
+          "regular": false,
+          "target": "§7锻造成地牢物品,或使用§d碎片§7升"
+        },
+        "§7using §dEssence§7!": {
+          "message": "§7using §dEssence§7!",
+          "regular": false,
+          "target": "§7级他们!"
+        }
+      }
+    },
+    {
+      "name": "§aBasic Reforging",
+      "trans": "§a基础重铸",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7random Reforge to boost an": {
+          "message": "§7random Reforge to boost an",
+          "regular": false,
+          "target": "§7机重铸一个属性以提高他们的"
+        },
+        "§7Basic reforging. Generate a": {
+          "message": "§7Basic reforging. Generate a",
+          "regular": false,
+          "target": "§7基础重铸.为一个武器/装备随"
+        },
+        "§7item\u0027s stats!": {
+          "message": "§7item\u0027s stats!",
+          "regular": false,
+          "target": "§7属性!"
+        }
+      }
+    },
+    {
+      "name": "§aAdvanced Reforging",
+      "trans": "§a高级重铸",
+      "lore": {
+        "§7stats using various types of": {
+          "message": "§7stats using various types of",
+          "regular": false,
+          "target": "§7武器/装备以提高他们的"
+        },
+        "§7Reforge items to boost their": {
+          "message": "§7Reforge items to boost their",
+          "regular": false,
+          "target": "§7使用各种各样的§a重铸石§7重铸"
+        },
+        "§7§aReforge Stones§7!": {
+          "message": "§7§aReforge Stones§7!",
+          "regular": false,
+          "target": "§7属性!"
+        }
+      }
+    },
+    {
+      "name": "§aEssence Shop",
+      "trans": "§a碎片商店",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7and perks!": {
+          "message": "§7and perks!",
+          "regular": false,
+          "target": "§7自己的属性！"
+        },
+        "§7Exchange §dEssence §7for items": {
+          "message": "§7Exchange §dEssence §7for items",
+          "regular": false,
+          "target": "§7使用§d碎片§7购买物品或者提升"
+        }
+      }
+    }
+  ]
+}

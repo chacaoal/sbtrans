@@ -1,3 +1,10 @@
 {
+  "dungeon": {
 
+    "Dungeon Blacksmith": {
+          "message":"Dungeon Blacksmith",
+          "regular":false,
+          "target": "地牢铁匠"
+    }
+  }
 }
