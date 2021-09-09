@@ -1,0 +1,573 @@
+{
+  "SkyBlock Menu": [
+    {
+      "name": "§aYour Skills",
+      "trans": "§a技能",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7View your Skill progression and": {
+          "message": "§7View your Skill progression and",
+          "regular": false,
+          "target": "§7View your Skill progression and"
+        },
+        "§618.5 Skill Avg. §8(non-cosmetic)": {
+          "message": "§618.5 Skill Avg. §8(non-cosmetic)",
+          "regular": false,
+          "target": "§618.5 Skill Avg. §8(non-cosmetic)"
+        },
+        "§7rewards.": {
+          "message": "§7rewards.",
+          "regular": false,
+          "target": "§7rewards."
+        }
+      }
+    },
+    {
+      "name": "§aCollection",
+      "trans": "§a收集",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7in SkyBlock. Collect more of an": {
+          "message": "§7in SkyBlock. Collect more of an",
+          "regular": false,
+          "target": "§7in SkyBlock. Collect more of an"
+        },
+        "§7SkyBlock!": {
+          "message": "§7SkyBlock!",
+          "regular": false,
+          "target": "§7SkyBlock!"
+        },
+        "§7item to unlock rewards on your": {
+          "message": "§7item to unlock rewards on your",
+          "regular": false,
+          "target": "§7item to unlock rewards on your"
+        },
+        "§7way to becoming a master of": {
+          "message": "§7way to becoming a master of",
+          "regular": false,
+          "target": "§7way to becoming a master of"
+        },
+        "§2---§f----------------- §e8§6/§e62": {
+          "message": "§2---§f----------------- §e8§6/§e62",
+          "regular": false,
+          "target": "§2---§f----------------- §e8§6/§e62"
+        },
+        "§7Collection Maxed Out: §e12.9§6%": {
+          "message": "§7Collection Maxed Out: §e12.9§6%",
+          "regular": false,
+          "target": "§7Collection Maxed Out: §e12.9§6%"
+        },
+        "§7View all of the items available": {
+          "message": "§7View all of the items available",
+          "regular": false,
+          "target": "§7View all of the items available"
+        }
+      }
+    },
+    {
+      "name": "§aRecipe Book",
+      "trans": "§a配方",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7special items! You can view how": {
+          "message": "§7special items! You can view how",
+          "regular": false,
+          "target": "§7special items! You can view how"
+        },
+        "§7unlock recipes for all kinds of": {
+          "message": "§7unlock recipes for all kinds of",
+          "regular": false,
+          "target": "§7unlock recipes for all kinds of"
+        },
+        "§7to craft these items here.": {
+          "message": "§7to craft these items here.",
+          "regular": false,
+          "target": "§7to craft these items here."
+        },
+        "§7Through your adventure, you will": {
+          "message": "§7Through your adventure, you will",
+          "regular": false,
+          "target": "§7Through your adventure, you will"
+        },
+        "§7Recipe Book Unlocked: §e64.5§6%": {
+          "message": "§7Recipe Book Unlocked: §e64.5§6%",
+          "regular": false,
+          "target": "§7Recipe Book Unlocked: §e64.5§6%"
+        },
+        "§2-------------§f------- §e479§6/§e743": {
+          "message": "§2-------------§f------- §e479§6/§e743",
+          "regular": false,
+          "target": "§2-------------§f------- §e479§6/§e743"
+        }
+      }
+    },
+    {
+      "name": "§aTrades",
+      "trans": "§a贸易",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Trades Unlocked: §e96.2%": {
+          "message": "§7Trades Unlocked: §e96.2%",
+          "regular": false,
+          "target": "§7Trades Unlocked: §e96.2%"
+        },
+        "§7View your available trades.": {
+          "message": "§7View your available trades.",
+          "regular": false,
+          "target": "§7View your available trades."
+        },
+        "§7available and accessible through": {
+          "message": "§7available and accessible through",
+          "regular": false,
+          "target": "§7available and accessible through"
+        },
+        "§2-------------------- §e25§6/§e26": {
+          "message": "§2-------------------- §e25§6/§e26",
+          "regular": false,
+          "target": "§2-------------------- §e25§6/§e26"
+        },
+        "§7the SkyBlock Menu.": {
+          "message": "§7the SkyBlock Menu.",
+          "regular": false,
+          "target": "§7the SkyBlock Menu."
+        },
+        "§7These trades are always": {
+          "message": "§7These trades are always",
+          "regular": false,
+          "target": "§7These trades are always"
+        }
+      }
+    },
+    {
+      "name": "§aQuest Log",
+      "trans": "§a任务",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7View your active quests,": {
+          "message": "§7View your active quests,",
+          "regular": false,
+          "target": "§7View your active quests,"
+        },
+        "§7progress, and rewards.": {
+          "message": "§7progress, and rewards.",
+          "regular": false,
+          "target": "§7progress, and rewards."
+        }
+      }
+    },
+    {
+      "name": "§a§aActive Effects",
+      "trans": "§a§a药水效果",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7§7Currently Active: §e32": {
+          "message": "§7§7Currently Active: §e32",
+          "regular": false,
+          "target": "§7§7Currently Active: §e32"
+        },
+        "§7active potion effects.": {
+          "message": "§7active potion effects.",
+          "regular": false,
+          "target": "§7active potion effects."
+        },
+        "§7§7Drink Potions or splash them": {
+          "message": "§7§7Drink Potions or splash them",
+          "regular": false,
+          "target": "§7§7Drink Potions or splash them"
+        },
+        "§7on the ground to buff yourself!": {
+          "message": "§7on the ground to buff yourself!",
+          "regular": false,
+          "target": "§7on the ground to buff yourself!"
+        },
+        "§7§7View and manage all of your": {
+          "message": "§7§7View and manage all of your",
+          "regular": false,
+          "target": "§7§7View and manage all of your"
+        }
+      }
+    },
+    {
+      "name": "§a§aPets",
+      "trans": "§a§a宠物",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Pets.": {
+          "message": "§7Pets.",
+          "regular": false,
+          "target": "§7Pets."
+        },
+        "§7§7View and manage all of your": {
+          "message": "§7§7View and manage all of your",
+          "regular": false,
+          "target": "§7§7View and manage all of your"
+        },
+        "§7§7Selected pet: §6Sheep": {
+          "message": "§7§7Selected pet: §6Sheep",
+          "regular": false,
+          "target": "§7§7Selected pet: §6Sheep"
+        },
+        "§7gaining xp in their favorite": {
+          "message": "§7gaining xp in their favorite",
+          "regular": false,
+          "target": "§7gaining xp in their favorite"
+        },
+        "§7skill!": {
+          "message": "§7skill!",
+          "regular": false,
+          "target": "§7skill!"
+        },
+        "§7§7Level up your pets faster by": {
+          "message": "§7§7Level up your pets faster by",
+          "regular": false,
+          "target": "§7§7Level up your pets faster by"
+        }
+      }
+    },
+    {
+      "name": "§aCrafting Table",
+      "trans": "§a工作台",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Opens the crafting grid.": {
+          "message": "§7Opens the crafting grid.",
+          "regular": false,
+          "target": "§7Opens the crafting grid."
+        }
+      }
+    },
+    {
+      "name": "§aWardrobe",
+      "trans": "§a套装",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Store armor sets and quickly": {
+          "message": "§7Store armor sets and quickly",
+          "regular": false,
+          "target": "§7Store armor sets and quickly"
+        },
+        "§7swap between them!": {
+          "message": "§7swap between them!",
+          "regular": false,
+          "target": "§7swap between them!"
+        }
+      }
+    },
+    {
+      "name": "§aPersonal Bank",
+      "trans": "§a掌上银行",
+      "lore": {
+        "§7anywhere.": {
+          "message": "§7anywhere.",
+          "regular": false,
+          "target": "§7anywhere."
+        },
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Contact your Banker from": {
+          "message": "§7Contact your Banker from",
+          "regular": false,
+          "target": "§7Contact your Banker from"
+        },
+        "§aAvailable": {
+          "message": "§aAvailable",
+          "regular": false,
+          "target": "§aAvailable"
+        },
+        "§7Cooldown: §e1 hour": {
+          "message": "§7Cooldown: §e1 hour",
+          "regular": false,
+          "target": "§7Cooldown: §e1 hour"
+        },
+        "§7Banker Status:": {
+          "message": "§7Banker Status:",
+          "regular": false,
+          "target": "§7Banker Status:"
+        }
+      }
+    },
+    {
+      "name": "§bFast Travel",
+      "trans": "§b快捷传送",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7Teleport to islands you\u0027ve": {
+          "message": "§7Teleport to islands you\u0027ve",
+          "regular": false,
+          "target": "§7Teleport to islands you\u0027ve"
+        },
+        "§7already visited.": {
+          "message": "§7already visited.",
+          "regular": false,
+          "target": "§7already visited."
+        }
+      }
+    },
+    {
+      "name": "§aSettings",
+      "trans": "§a设置",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7View and edit your SkyBlock": {
+          "message": "§7View and edit your SkyBlock",
+          "regular": false,
+          "target": "§7View and edit your SkyBlock"
+        },
+        "§7settings.": {
+          "message": "§7settings.",
+          "regular": false,
+          "target": "§7settings."
+        }
+      }
+    },
+    {
+      "name": "§aSack of Sacks",
+      "trans": "§a袋子",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7sacks. Sackception!": {
+          "message": "§7sacks. Sackception!",
+          "regular": false,
+          "target": "§7sacks. Sackception!"
+        },
+        "§7A sack which contains other": {
+          "message": "§7A sack which contains other",
+          "regular": false,
+          "target": "§7A sack which contains other"
+        }
+      }
+    },
+    {
+      "name": "§aPotion Bag",
+      "trans": "§a药水包",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7A handy bag for holding your": {
+          "message": "§7A handy bag for holding your",
+          "regular": false,
+          "target": "§7A handy bag for holding your"
+        },
+        "§7Potions in.": {
+          "message": "§7Potions in.",
+          "regular": false,
+          "target": "§7Potions in."
+        }
+      }
+    },
+    {
+      "name": "§aFishing Bag",
+      "trans": "§a渔具包",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7A useful bag which can hold all": {
+          "message": "§7A useful bag which can hold all",
+          "regular": false,
+          "target": "§7A useful bag which can hold all"
+        },
+        "§7loot!": {
+          "message": "§7loot!",
+          "regular": false,
+          "target": "§7loot!"
+        },
+        "§7types of fish, bait, and fishing": {
+          "message": "§7types of fish, bait, and fishing",
+          "regular": false,
+          "target": "§7types of fish, bait, and fishing"
+        }
+      }
+    },
+    {
+      "name": "§aQuiver",
+      "trans": "§a箭袋",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7A masterfully crafted Quiver": {
+          "message": "§7A masterfully crafted Quiver",
+          "regular": false,
+          "target": "§7A masterfully crafted Quiver"
+        },
+        "§7projectile you can think of!": {
+          "message": "§7projectile you can think of!",
+          "regular": false,
+          "target": "§7projectile you can think of!"
+        },
+        "§7which holds any kind of": {
+          "message": "§7which holds any kind of",
+          "regular": false,
+          "target": "§7which holds any kind of"
+        }
+      }
+    },
+    {
+      "name": "§aAccessory Bag",
+      "trans": "§a护身符",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7A special bag which can hold": {
+          "message": "§7A special bag which can hold",
+          "regular": false,
+          "target": "§7A special bag which can hold"
+        },
+        "§7Talismans, Rings, Artifacts and": {
+          "message": "§7Talismans, Rings, Artifacts and",
+          "regular": false,
+          "target": "§7Talismans, Rings, Artifacts and"
+        },
+        "§7Orbs within it. All will still": {
+          "message": "§7Orbs within it. All will still",
+          "regular": false,
+          "target": "§7Orbs within it. All will still"
+        },
+        "§7work while in this bag!": {
+          "message": "§7work while in this bag!",
+          "regular": false,
+          "target": "§7work while in this bag!"
+        }
+      }
+    },
+    {
+      "name": "§aHypixel Game Menu",
+      "trans": "",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7View the Hypixel Game Menu.": {
+          "message": "§7View the Hypixel Game Menu.",
+          "regular": false,
+          "target": "§7View the Hypixel Game Menu."
+        }
+      }
+    },
+    {
+  "name": "§aStorage",
+  "trans": "§a背包/末影箱",
+  "lore": {
+    " ": {
+      "message": " ",
+      "regular": false,
+      "target": " "
+    },
+    "§7to access at any time from": {
+      "message": "§7to access at any time from",
+      "regular": false,
+      "target": "§7to access at any time from"
+    },
+    "§7anywhere here.": {
+      "message": "§7anywhere here.",
+      "regular": false,
+      "target": "§7anywhere here."
+    },
+    "§7Store global items that you want": {
+      "message": "§7Store global items that you want",
+      "regular": false,
+      "target": "§7Store global items that you want"
+    }
+  }
+},{
+  "name": "§aCalendar and Events",
+  "trans": "§a日历/节日",
+  "lore": {
+    "": {
+      "message": "",
+      "regular": false,
+      "target": ""
+    },
+    "§7Starting in: §e1d 0h 34m 20s": {
+      "message": "§7Starting in: §e1d 0h 34m 20s",
+      "regular": false,
+      "target": "§7Starting in: §e1d 0h 34m 20s"
+    },
+    "§7Next Event: §cSeason of Jerry": {
+      "message": "§7Next Event: §cSeason of Jerry",
+      "regular": false,
+      "target": "§7Next Event: §cSeason of Jerry"
+    },
+    "§7View the SkyBlock Calendar,": {
+      "message": "§7View the SkyBlock Calendar,",
+      "regular": false,
+      "target": "§7View the SkyBlock Calendar,"
+    },
+    "§7rewards!": {
+      "message": "§7rewards!",
+      "regular": false,
+      "target": "§7rewards!"
+    },
+    "§7upcoming events, and event": {
+      "message": "§7upcoming events, and event",
+      "regular": false,
+      "target": "§7upcoming events, and event"
+    }
+  }
+}
+  ]
+}
