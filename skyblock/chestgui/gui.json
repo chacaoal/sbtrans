@@ -12,7 +12,7 @@
         "§7View your Skill progression and": {
           "message": "§7View your Skill progression and",
           "regular": false,
-          "target": "§7View your Skill progression and"
+          "target": "§7显示你的技能进度和获得的"
         },
         "§618.5 Skill Avg. §8(non-cosmetic)": {
           "message": "§618.5 Skill Avg. §8(non-cosmetic)",
@@ -22,7 +22,7 @@
         "§7rewards.": {
           "message": "§7rewards.",
           "regular": false,
-          "target": "§7rewards."
+          "target": "§7奖励。"
         }
       }
     },
@@ -54,16 +54,6 @@
           "message": "§7way to becoming a master of",
           "regular": false,
           "target": "§7way to becoming a master of"
-        },
-        "§2---§f----------------- §e8§6/§e62": {
-          "message": "§2---§f----------------- §e8§6/§e62",
-          "regular": false,
-          "target": "§2---§f----------------- §e8§6/§e62"
-        },
-        "§7Collection Maxed Out: §e12.9§6%": {
-          "message": "§7Collection Maxed Out: §e12.9§6%",
-          "regular": false,
-          "target": "§7Collection Maxed Out: §e12.9§6%"
         },
         "§7View all of the items available": {
           "message": "§7View all of the items available",
