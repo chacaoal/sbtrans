@@ -1,25 +1,22 @@
 {
   "players": {
-
-    "§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: [\s\S]": {
-          "message":"§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: abcdef§r",
-          "regular":true,
-          "regulars":[
-            "DUNGEON BUFF! ",
-            " §r§f§ffound a "
-          ],
-          "target": "ab"
+    "§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: [sS]": {
+      "message": "§r§r§a§a[VIP§r§6§6+§r§a§a] chacaoal§r§f§f: abcdef§r",
+      "regular": true,
+      "regulars": ["DUNGEON BUFF! ", " §r§f§ffound a "],
+      "target": "ab"
     },
     "§r<§r§rchacaoal§r> §rcaonima§r": {
-          "message":"§r<§r§rNMML§r> [\s\S]*",
-          "regular": false,
-          "regulars":[
-            "§rcaonima§r"
-          ],
-          "target": "你的背包已经满了！ <v0>"
+      "message": "§r<§r§rNMML§r> [sS]*",
+      "regular": false,
+      "regulars": ["§rcaonima§r"],
+      "target": "你的背包已经满了！ <v0>"
+    },
+    "[\\s\\S]* [^]*'s Island": {
+      "message": "[\\s\\S]* [^]*'s Island",
+      "regular": true,
+      "regulars": ["'s Island"],
+      "target": "<v0> <v1>"
     }
   }
-
-
-
 }

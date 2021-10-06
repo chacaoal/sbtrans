@@ -1,24 +1,13 @@
 {
-        "name": "skyblock",
-        "authors": [
-          "NMML",
-          "Chacaoal"
-        ],
-        "paths": {
-          "replaces": [
-            "/items/replaces.json",
-            "/messages/replaces.json"
-          ],
-          "commons": [
-              "/items/armors.json",
-              "/chestgui/gui.json",
-              "/chestgui/items.json",
-              "/items/tools.json",
-              "/items/weapons.json"
-          ],
-          "messages": [
-              "/chestgui/names.json",
-              "/messages/message.json"
-          ]
-    }
+  "name": "skyblock",
+  "authors": ["NMML", "Chacaoal"],
+  "paths": {
+    "replaces": ["/items/replaces.json"],
+    "commons": [
+      "/dungeon/armors/shadow_assassin.json",
+      "/dungeon/gui/black_smith.json",
+      "/dwarven_mine/gui/guide.json"
+    ],
+    "messages": ["/dungeon/npc.json"]
+  }
 }

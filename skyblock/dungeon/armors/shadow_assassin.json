@@ -1,0 +1,119 @@
+{
+  "shadow_assassin": [
+    {
+      "name": "",
+      "trans": "",
+      "lore": {
+        "§7On teleport: Grants invisibility": {
+          "message": "§7On teleport: Grants invisibility",
+          "regular": false,
+          "target": "§7当传送： "
+        },
+        "§7and §f+20✦ Speed §7for §b10": {
+          "message": "§7and §f+20✦ Speed §7for §b10",
+          "regular": false,
+          "target": "§7-获得§b10§7秒 §f+20✦ 速度和隐身"
+        },
+        "§b§7seconds.": {
+          "message": "§b§7seconds.",
+          "regular": false,
+          "target": ""
+        }
+      }
+    },
+    {
+      "name": "",
+      "trans": "",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7On teleport: Grants §c+10❁": {
+          "message": "§7On teleport: Grants §c+10❁",
+          "regular": false,
+          "target": "§7§7当传送："
+        },
+        "§cStrength §7for §b10 §7seconds.": {
+          "message": "§cStrength §7for §b10 §7seconds.",
+          "regular": false,
+          "target": "§7-获得§b10秒 §c+10❁ 力量§7"
+        }
+      }
+    },
+    {
+      "name": "",
+      "trans": "",
+      "lore": {
+        "§7your maximum health.": {
+          "message": "§7your maximum health.",
+          "regular": false,
+          "target": "§7-回复你最大生命§c1%§7的生命"
+        },
+        "§7On teleport: Restores §c1% §7of": {
+          "message": "§7On teleport: Restores §c1% §7of",
+          "regular": false,
+          "target": "§7§7当传送："
+        }
+      }
+    },
+    {
+      "name": "",
+      "trans": "",
+      "lore": {
+        "§b§7mana.": {
+          "message": "§b§7mana.",
+          "regular": false,
+          "target": "§7-§b§7回复§b10§7魔力值."
+        },
+        "§7On teleport: Restores §b10": {
+          "message": "§7On teleport: Restores §b10",
+          "regular": false,
+          "target": "§7§7当传送："
+        }
+      }
+    },
+    {
+      "name": "",
+      "trans": "",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7enemies you kill increasing your": {
+          "message": "§7enemies you kill increasing your",
+          "regular": false,
+          "target": "§7收集敌人留下的暗影。每次击杀"
+        },
+        "§7§c+1❁ Strength §7every kill": {
+          "message": "§7§c+1❁ Strength §7every kill",
+          "regular": false,
+          "target": "§7§c+1❁ Strength §7every kill"
+        },
+        "§7Collect the shadows of the": {
+          "message": "§7Collect the shadows of the",
+          "regular": false,
+          "target": "§7当你在地牢穿戴这件套装时，可以"
+        },
+        "§7damage for the rest of the": {
+          "message": "§7damage for the rest of the",
+          "regular": false,
+          "target": "§7§c+1❁ 力量"
+        },
+        "§7dungeon while wearing this set.": {
+          "message": "§7dungeon while wearing this set.",
+          "regular": false,
+          "target": ""
+        },
+        "§7§c+1❁ Strength §7every kill": {
+          "message": "§7§c+1❁ Strength §7every kill",
+          "regular": false,
+          "target": ""
+        }
+      }
+    }
+  ]
+}

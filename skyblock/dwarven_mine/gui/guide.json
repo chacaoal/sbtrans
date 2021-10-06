@@ -1,0 +1,66 @@
+{
+  "rhy": [
+    {
+      "name": "§aMithril §8and §9᠅ Powder",
+      "trans": "§a秘银 §8和 §9᠅ 粉末",
+      "lore": {
+        "§8 ■ §7§7All of the veins on this": {
+          "message": "§8 ■ §7§7All of the veins on this",
+          "regular": false,
+          "target": "§8 ■ §7§7这座岛上所有的矿脉都"
+        },
+        "    §7island are mineable.": {
+          "message": "    §7island are mineable.",
+          "regular": false,
+          "target": "    §7可以被开采。"
+        },
+
+        "§8 ■ §7§7The center of §fMithril": {
+          "message": "§8 ■ §7§7The center of §fMithril",
+          "regular": false,
+          "target": "§8 ■ §7§7§f秘银矿脉的中心更加纯 "
+        },
+        "    §f§7veins are more pure and thus": {
+          "message": "    §f§7veins are more pure and thus",
+          "regular": false,
+          "target": "    §f§7净因此他会掉落更多的"
+        },
+        "    §7drop more Mithril, while the": {
+          "message": "    §7drop more Mithril, while the",
+          "regular": false,
+          "target": "    §7秘银而矿脉外围则会掉"
+        },
+        "    §7outer edges of the vein drop the": {
+          "message": "    §7outer edges of the vein drop the",
+          "regular": false,
+          "target": "    §7落相对较少的秘银。"
+        },
+        "    §7least!": {
+          "message": "    §7least!",
+          "regular": false,
+          "target": "    "
+        },
+        "§8 ■ §7§7Mining Mithril is the main": {
+          "message": "§8 ■ §7§7Mining Mithril is the main",
+          "regular": false,
+          "target": "§8 ■ §7§7挖掘秘银是获得秘银粉"
+        },
+        "    §7source of gaining §2Mithril": {
+          "message": "    §7source of gaining §2Mithril",
+          "regular": false,
+          "target": "    §7末的主要来源。§2秘银粉"
+        },
+        "    §2Powder§7, which is useful in the": {
+          "message": "    §2Powder§7, which is useful in the",
+          "regular": false,
+          "target": "    §2末§7在§5Heart of the Mountain§7中很有用。"
+        },
+        "§5Heart of the Mountain§7.": {
+          "message": "§5Heart of the Mountain§7.",
+          "regular": false,
+          "target": ""
+        }
+      }
+    }
+  ]
+}
