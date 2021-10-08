@@ -1,5 +1,5 @@
 {
-  "dungeon_gui":[
+  "dungeon_blacksmith": [
     {
       "name": "§aSalvage Dungeon Items",
       "trans": "§a分解地牢武器/装备",
@@ -123,6 +123,221 @@
           "message": "§7Exchange §dEssence §7for items",
           "regular": false,
           "target": "§7使用§d碎片§7购买物品或者提升"
+        }
+      }
+    }
+  ],
+  "dungeon_essence_shop": [
+    {
+      "name": "§aUndead Essence Shop",
+      "trans": "§a亡灵碎片商店",
+      "lore": {
+        "§7Exchange §dUndead Essence §7for": {
+          "message": "§7Exchange §dUndead Essence §7for",
+          "regular": false,
+          "target": "§7使用§d亡灵碎片§p来提升你在"
+        },
+        "§7perks and items useful in §cThe": {
+          "message": "§7perks and items useful in §cThe",
+          "regular": false,
+          "target": "§cCatacombs§p中的属性"
+        },
+        "§cCatacombs§7!": {
+          "message": "§cCatacombs§7!",
+          "regular": false,
+          "target": "§7和换取有用的物品！"
+        }
+      }
+    },
+    {
+      "name": "§aWither Essence Shop",
+      "trans": "§a凋零碎片商店",
+      "lore": {
+        "§7Exchange §dWither Essence §7for": {
+          "message": "§7Exchange §dWither Essence §7for",
+          "regular": false,
+          "target": "§7使用§d凋零碎片§7来提升"
+        },
+        "§7perks and items!": {
+          "message": "§7perks and items!",
+          "regular": false,
+          "target": "§7属性和换取物品！"
+        }
+      }
+    },
+    {
+      "name": "§aYour Essence",
+      "trans": "§a你的碎片",
+      "lore": {
+        "§7which can be used to upgrade": {
+          "message": "§7which can be used to upgrade",
+          "regular": false,
+          "target": "§7用有的物品和升级你的"
+        },
+        "§7Collect Essence in Dungeons": {
+          "message": "§7Collect Essence in Dungeons",
+          "regular": false,
+          "target": "§7收集地牢中碎片可以购买"
+        },
+        "§7gear and purchase perks and": {
+          "message": "§7gear and purchase perks and",
+          "regular": false,
+          "target": "§7属性。"
+        },
+        "§7upgrades!": {
+          "message": "§7upgrades!",
+          "regular": false,
+          "target": ""
+        }
+      }
+    },
+    {
+      "name": "§aWither Essence",
+      "trans": "§a凋零碎片",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§dEssence§7.": {
+          "message": "§dEssence§7.",
+          "regular": false,
+          "target": ""
+        },
+        "§7You currently own §a[\\s\\S]* §dWither": {
+          "message": "§7You currently own §a[\\s\\S]* §dWither",
+          "regular": true,
+          "regulars": ["§7You currently own §a", " §dWither"],
+          "target": "§7你当前有§a<v0>§7个§d凋零碎片§7。"
+        },
+        "§7§7§oWhy are we still here? Just": {
+          "message": "§7§7§oWhy are we still here? Just",
+          "regular": false,
+          "regulars": ["§7You currently own §a", " §dWither"],
+          "target": "§7§7§oWhy are we still here? Just"
+        }
+      }
+    },
+    {
+      "name": "§aSpider Essence",
+      "trans": "§a蜘蛛碎片",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": true,
+          "target": ""
+        },
+        "§7You currently own §a[\\s\\S]* §dSpider": {
+          "message": "§7You currently own §a[\\s\\S]* §dSpider",
+          "regular": true,
+          "regulars": ["§7You currently own §a", " §dSpider"],
+          "target": "§7你当前有§a<v0>§7个§d蜘蛛碎片§7。"
+        }
+      }
+    },
+    {
+      "name": "§aUndead Essence",
+      "trans": "§a亡灵碎片",
+      "lore": {
+        "§7You currently own [\\s\\S]*": {
+          "message": "§7You currently own [\\s\\S]*",
+          "regular": true,
+          "regulars": ["§7You currently own "],
+          "target": "§7你当前有§a<v0>§7个§d亡灵碎片§7。"
+        },
+        "§a§dUndead Essence§7.": {
+          "message": "§a§dUndead Essence§7.",
+          "regular": false,
+          "target": ""
+        },
+        "§7§7§oIs this thing rotten? And": {
+          "message": "§7§7§oIs this thing rotten? And",
+          "regular": false,
+          "target": "§7§7§oIs this thing rotten? And"
+        }
+      }
+    },
+    {
+      "name": "§aDragon Essence",
+      "trans": "§a龙碎片",
+      "lore": {
+        "": {
+          "message": "",
+          "regular": false,
+          "target": ""
+        },
+        "§7§7§oIs it glowing? And": {
+          "message": "§7§7§oIs it glowing? And",
+          "regular": false,
+          "target": "§7§7§oIs it glowing? And"
+        },
+        "§a§dDragon Essence§7.": {
+          "message": "§a§dDragon Essence§7.",
+          "regular": false,
+          "target": ""
+        },
+        "§7You currently own [\\s\\S]*": {
+          "message": "§7You currently own [\\s\\S]*",
+          "regular": true,
+          "regulars": ["§7You currently own "],
+          "target": "§7你当前有§a<v0>§7个§d龙碎片§7。"
+        }
+      }
+    },
+    {
+      "name": "§aGold Essence",
+      "trans": "§a黄金碎片",
+      "lore": {
+        "§7You currently own §a[\\s\\S]* §dGold": {
+          "message": "§7You currently own §a[\\s\\S]* §dGold",
+          "regular": true,
+          "regulars": ["§7You currently own ", " §dGold"],
+          "target": "§7你当前有§a<v0>§7个§d黄金碎片§7。"
+        },
+        "§7§7§oThere\u0027s something dirty": {
+          "message": "§7§7§oThere\u0027s something dirty",
+          "regular": false,
+          "target": "§7§7§oThere\u0027s something dirty"
+        }
+      }
+    },
+    {
+      "name": "§aDiamond Essence",
+      "trans": "§a钻石碎片",
+      "lore": {
+        "§a§dDiamond Essence§7.": {
+          "message": "§a§dDiamond Essence§7.",
+          "regular": false,
+          "target": ""
+        },
+        "§7You currently own §a[\\s\\S]*": {
+          "message": "§7You currently own §a[\\s\\S]*",
+          "regular": true,
+          "regulars": ["§7You currently own §a"],
+          "target": "§7你当前有§a<v0>§7个§d钻石碎片§7。"
+        },
+        "§7§7§oSo pristine...so": {
+          "message": "§7§7§oSo pristine...so",
+          "regular": false,
+          "target": "§7§7§oSo pristine...so"
+        }
+      }
+    },
+    {
+      "name": "§aIce Essence",
+      "trans": "§a冰碎片",
+      "lore": {
+        "§7§7§oIce cold, yet warm to the": {
+          "message": "§7§7§oIce cold, yet warm to the",
+          "regular": false,
+          "target": "§7§7§oIce cold, yet warm to the"
+        },
+        "§7You currently own §a[\\s\\S]* §dIce": {
+          "message": "§7You currently own §a[\\s\\S]* §dIce",
+          "regular": true,
+          "regulars": ["§7You currently own §a", " §dIce"],
+          "target": "§7你当前有§a<v0>§7个§d冰碎片§7。"
         }
       }
     }
